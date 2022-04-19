@@ -14,3 +14,8 @@ p3_age = 31
 p1_coord = 3.165
 p2_coord = 1.748
 p3_coord = 2.486
+
+# Boolean variables
+p1_roommate = True
+p2_roommate = False
+p3_roommate = False
