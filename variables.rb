@@ -19,3 +19,8 @@ p3_coord = 2.486
 p1_roommate = True
 p2_roommate = False
 p3_roommate = False
+
+# Reassigning String variables
+person1 = Natalie
+person2 = Tess
+person3 = Charles
